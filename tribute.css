@@ -1,0 +1,69 @@
+html {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10px;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+#main {
+  background-color: rgb(240, 240, 240);
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+}
+#title {
+  font-size: 4rem;
+  text-align: center;
+}
+#img-div {
+  padding: 10px;
+  text-align: center;
+}
+#image {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+#img-caption {
+  font-family: italic;
+  background-color: #d9d9d9;
+  padding: 10px 0;
+}
+#tribute-info {
+  max-width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.8em;
+}
+#subtitle {
+  text-align: center;
+  font-size: 2rem;
+}
+.list {
+  font-size: 1.1em;
+  text-align: left;
+}
+#quote {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+li {
+  margin: 12px 0;
+}
+.tribute-link {
+  font-size: 1.1em;
+  padding: 20px;
+  background-color: rgb(189, 186, 186);
+  text-align: center;
+}
